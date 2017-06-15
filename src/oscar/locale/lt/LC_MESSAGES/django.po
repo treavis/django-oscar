@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: django-oscar\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-13 13:06+0200\n"
-"PO-Revision-Date: 2017-03-28 09:54+0000\n"
+"PO-Revision-Date: 2017-06-15 09:06+0000\n"
 "Last-Translator: Matas Dailyda <matas@dailyda.com>\n"
 "Language-Team: Lithuanian (http://www.transifex.com/codeinthehole/django-oscar/language/lt/)\n"
 "MIME-Version: 1.0\n"
@@ -114,7 +114,7 @@ msgstr "Adresai"
 #: apps/address/abstract_models.py:274
 #, python-format
 msgid "Addresses in %(country)s require a valid postcode"
-msgstr "Adresų šalyje %(country)s turi turėti teisingą pašto kodą"
+msgstr "Adresas šalyje \"%(country)s\" turi turėti teisingą pašto kodą"
 
 #: apps/address/abstract_models.py:286
 #, python-format
@@ -777,7 +777,7 @@ msgstr "Krepšelio būsena"
 #: templates/oscar/dashboard/reports/partials/open_basket_report.html:10
 #: templates/oscar/dashboard/reports/partials/submitted_basket_report.html:10
 msgid "Num lines"
-msgstr "Eilutės nr."
+msgstr "Eilučių skaičius"
 
 #: apps/basket/reports.py:23 apps/basket/reports.py:81
 #: templates/oscar/customer/order/order_list.html:40
@@ -785,7 +785,7 @@ msgstr "Eilutės nr."
 #: templates/oscar/dashboard/reports/partials/submitted_basket_report.html:11
 #: templates/oscar/dashboard/users/detail.html:121
 msgid "Num items"
-msgstr "Įrašo nr."
+msgstr "Įrašų skaičius"
 
 #: apps/basket/reports.py:24
 #: templates/oscar/dashboard/reports/partials/open_basket_report.html:12
@@ -6736,7 +6736,7 @@ msgstr "Redaguoti profilį"
 
 #: templates/oscar/customer/profile/profile_delete.html:5
 msgid "Please confirm your password to delete your profile."
-msgstr "Prašome patvirtinti savo slaptažodį, kad ištrintumėte savo profilį"
+msgstr "Prašome patvirtinti savo slaptažodį, kad ištrintumėte savo profilį."
 
 #: templates/oscar/customer/profile/profile_delete.html:10
 msgid "Warning"
